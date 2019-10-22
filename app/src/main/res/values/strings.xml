@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compartiendo</string>
+    <string name="Lanzar">Lanzar</string>
+    <string name="Abrirmapa">Abrir mapa</string>
+    <string name="BotonWhatsApp">Boton WhatsApp</string>
+    <string name="BotonFacebook">Boton facebook</string>
+    <string name="BotonEmail">Boton Email</string>
+</resources>
